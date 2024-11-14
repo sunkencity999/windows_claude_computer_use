@@ -35,10 +35,7 @@ This thing can get Very Expensive! Please set your API limits responsibly --Chri
 ## Installation
 
 1. Clone this repository:
-```cmd
-git clone https://github.com/anthropics/anthropic-quickstarts.git
-cd anthropic-quickstarts/computer-use-demo
-```
+
 
 2. Run the setup script:
 ```cmd
