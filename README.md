@@ -1,5 +1,8 @@
 # Anthropic Computer Use Demo - Windows Version
 
+I created this because the versino Anthropic released is plainly not useful for understanding what Agents can do; it is limited to a Linux Vm run in docker. You need to actually use this thing with your daily driver to understand the potential! Be careful, you absolutely can cause real damage to your system if you aren't responsible with this. You set an intelligence loose in your system, you take upon yourself certain risks. But...also some great rewards! --Christopher
+
+
 > [!CAUTION]
 > Computer use is a beta feature. Please be aware that computer use poses unique risks that are distinct from standard API features or chat interfaces. These risks are heightened when using computer use to interact with the internet. To minimize risks, consider taking precautions such as:
 >
@@ -18,7 +21,7 @@ This repository provides a Windows-compatible version of the Anthropic Computer 
 * Anthropic-defined computer use tools adapted for Windows
 * A streamlit app for interacting with the agent loop
 
-Please use [this form](https://forms.gle/BT1hpBrqDPDUrCqo7) to provide feedback on the quality of the model responses, the API itself, or the quality of the documentation - we cannot wait to hear from you!
+This thing can get Very Expensive! Please set your API limits responsibly --Christopher
 
 > [!IMPORTANT]
 > The Beta API used in this reference implementation is subject to change. Please refer to the [API release notes](https://docs.anthropic.com/en/release-notes/api) for the most up-to-date information.
@@ -199,3 +202,6 @@ python -m pytest tests
 3. If screenshots are not working:
    - Ensure you have the latest version of Pillow installed
    - Try updating your graphics drivers
+
+  
+If you're having any issues or questions, email me at chris@christopherdanielbradford.com. Have fun!
