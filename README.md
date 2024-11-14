@@ -1,6 +1,6 @@
 # Anthropic Computer Use Demo - Windows Version
 
-I created this because the versino Anthropic released is plainly not useful for understanding what Agents can do; it is limited to a Linux Vm run in docker. You need to actually use this thing with your daily driver to understand the potential! Be careful, you absolutely can cause real damage to your system if you aren't responsible with this. You set an intelligence loose in your system, you take upon yourself certain risks. But...also some great rewards! --Christopher
+I created this because the version Anthropic released is plainly not useful for understanding what Agents can do; it is limited to a Linux Vm run in docker. You need to actually use this thing with your daily driver to understand the potential! Be careful, you absolutely can cause real damage to your system if you aren't responsible with this. You set an intelligence loose in your system, you take upon yourself certain risks. But...also some great rewards! --Christopher
 
 
 > [!CAUTION]
